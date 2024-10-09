@@ -1,0 +1,4 @@
+500
+500
+Sweepminer
+resource/fonts/ELEPHNT.TTF
